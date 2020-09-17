@@ -6,3 +6,7 @@ The route is the left most route at the wall and starts with a easy ramp that di
 1. 4+/3, 35m:
 2. 5-/4+, 30m:
 3. 
+
+---
+Crag Guides by lordyavin and contributors is licensed under CC BY-NC-ND 4.0.
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0
