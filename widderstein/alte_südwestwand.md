@@ -1,5 +1,5 @@
 # Widderstein
-# Alte Südwestwand 5-, 8 SL
+# Alte Südwestwand 5-, 8 SL, 280m
 
 **Start**:
 
